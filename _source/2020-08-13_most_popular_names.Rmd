@@ -1,7 +1,35 @@
 # Most popular names in the US
 
+
 - Question can be answered from different perspectives
   - All time most popular 
   - Popular names in the last years 
   - Most popular long names
   - Most popular short names
+
+
+You know the situation you to talk strangers about it this and that. At some point they ask you how you make your living.
+This happened exactly to me last weekend, when I was on u party of a friend. I told the people at the buffet about my website. They were espcially
+interested in my babyname database, as they all had kids. Everyone had an anecdote to tell about their name search. Then a woman asked me what
+are actually the most popular names, obviously she wanted to test me. It was a bit embarrassing, because I didn't know the answer. I told her that it is "Emma" for girls and "David" for boys. Actually I wasn't sure at all if I was right. I told the people that it's not so easy to answer the question, as it depends on how you define "most popular".
+
+Last Monday I defined different criteria for "most popular" to analyse afterwards our database. In this article I want to show you the interesting results.
+
+## The Alltime Most Popular Names Ranking
+
+In this analysis I evaluated all years since 1880. The analysis is a bit unfair for modern names as over a 100 years ago there were much less names around. 
+However the result is still interesting since you can call the names in this ranking "tradional" or "evergreen" names.
+
+## The Most Popular Modern Names
+
+Many people tend to choose a modern name. For them "The Alltime Most Popular Names Ranking" does not provide so much so information. Therefore I created a list with
+the most popular names in the last 10 years. The results look different although you can still spot names, that are in the ranking from before.
+
+## The Most Popular Short Modern Names
+
+People often tell me that they prefer short names. For these people is this ranking with modern short names. 
+
+
+## The Most Popular Long Modern Names
+
+But what's about longer names? I am sure there are people that dislike all these short names like "Zoe" or "Mia"
