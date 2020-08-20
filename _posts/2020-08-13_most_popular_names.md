@@ -1,0 +1,58 @@
+---
+title: "The Most Popular Baby Names in the US"
+subtitle: '...and why it's not so easy to say what "most popular" means'
+categories:
+  - "names"
+tags: names
+image: 'https://res.cloudinary.com/jenslaufer/image/upload/c_scale,q_68,w_600/v1597930007/nynne-schroder-Ld532Q7eUmQ-unsplash.jpg'
+image_caption: "Photo by Nynne Schrøder on Unsplash"
+---
+
+
+You know the situation when you to talk to strangers about this and that. At some point, they ask you what you do for your living.
+This happened exactly to me last weekend when I was at a friend's party. At the buffet, I told the people about our site. They were especially
+interested in our baby name database, as they were all parents with kids. Everyone could tell an anecdote about their own name search, which was a lot of fun. Then a woman asked me what
+are actually the most popular names; obviously, she wanted to test me. It was a bit embarrassing, as I couldn't answer the question quickly. I told her that it is "Emma" for girls and "David" for boys. Actually, I wasn't sure at all if I was right. I told the folks that it's not so easy to answer the question, as it depends on how you define "most popular".
+
+Last Monday, I defined different criteria for "most popular" to analyse our database afterwards. In this article, I want to show you the exciting results.
+
+### The Alltime Most Popular Names Ranking
+
+In this analysis, I evaluated all years since 1880. The investigation is a bit unfair for new names as over 100 years ago there were much fewer names around. So old names
+are more often used than new ones. However, the result is still interesting since you can call the names in this ranking "traditional" or "evergreen" names. 
+
+Many people like these kinds of names, therefore this ranking makes sense.
+
+There are no many unusual names in the ranking.
+The most popular girl's names are "Mary", "Elisabeth", "Patricia" and "Jennifer". For boys, it's "James", "John", "Robert" and "Michael".
+
+### The Most Popular Modern Names
+
+Many people tend to choose a modern name. For them "The Alltime Most Popular Names Ranking" does not provide so much so information. Therefore I was creating a ranking with
+the most popular names in the last 10 years. The results look different although you can still spot names, that are in the ranking from before.
+
+The most popular names female names are in this list "Emma", "Sophia", "Isabella" and "Olivia". It's interesting that "Elisabeth" still makes it the Top 10. The name is an evergreen name.
+
+The top male names over the last years are "Jacob", "Noah" "William" and "Ethan". Again there is a name that is still popular, although it's ancient: "Michael".
+
+I was actually right on the party telling the folks that "Emma" is the most popular name for girls, but I was wrong with "David".  
+
+### The Most Popular Short Modern Names
+
+People often tell me that they prefer short names. For these people is this ranking with modern short names. All names with less than 6 characters are included in this ranking.
+
+The top names are "Emma", "Ava", "Emily" and "Mia" for girls and "Jacob", "Noah", "Ethan" and "Mason" for boys.
+
+
+### The Most Popular Long Modern Names
+
+But what's about longer names? I am sure some people dislike all these short names like "Zoe" or "Mia".
+
+I compiled a ranking with names with more than 8 characters.
+
+## Conclusion
+
+The definition of "The Most Popular Name" is dependent on the criteria you define which name makes into the ranking and which not. You are completely free with it, so compiling a ranking is a lot of fun, especially in case you find funny names.
+
+What criteria would you like to get analysed, please let me know.
+

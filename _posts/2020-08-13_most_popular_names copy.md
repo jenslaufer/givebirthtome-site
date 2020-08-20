@@ -1,4 +1,13 @@
-# Most popular names in the US
+---
+title: "The Most Popular Baby Names in the US"
+subtitle: '...and why it's not so easy to say what "most popular" means'
+categories:
+  - "names"
+tags: names
+image: 'https://res.cloudinary.com/jenslaufer/image/upload/c_scale,q_68,w_600/v1597930007/nynne-schroder-Ld532Q7eUmQ-unsplash.jpg'
+image_caption: "Photo by Nynne Schrøder on Unsplash"
+---
+
 
 You know the situation when you to talk to strangers about this and that. At some point, they ask you what you do for your living.
 This happened exactly to me last weekend when I was at a friend's party. At the buffet, I told the people about our site. They were especially
@@ -14,7 +23,7 @@ are more often used than new ones. However, the result is still interesting sinc
 
 Many people like these kinds of names, therefore this ranking makes sense.
 
-There are no many unusual names in the ranking. 
+There are no many unusual names in the ranking.
 The most popular girl's names are "Mary", "Elisabeth", "Patricia" and "Jennifer". For boys, it's "James", "John", "Robert" and "Michael".
 
 ### The Most Popular Modern Names
